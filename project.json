@@ -1,0 +1,10 @@
+{
+    "name": "Sky-AutoHeart",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "com.sky.auto",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}

@@ -1,2 +1,4 @@
 # Sky-AutoHeart
-Sky: Children of the Light
+
+## 教程
+请使用mumu模拟器
